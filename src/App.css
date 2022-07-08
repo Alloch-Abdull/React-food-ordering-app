@@ -1,0 +1,15 @@
+.content {
+  background-color: rgb(39, 39, 39);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+  padding-bottom: 100px;
+  z-index: 1;
+}
+
+.cart-open {
+  height: 100vh;
+  overflow: hidden;
+}

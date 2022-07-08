@@ -1,0 +1,17 @@
+.ordered-item {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.ordered-special-requests {
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.special-requests-title {
+    font-weight: 700;
+}

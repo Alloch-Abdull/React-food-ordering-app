@@ -1,0 +1,21 @@
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.close-cart {
+    font-size: 1.5rem;
+    font-weight: 900;
+    cursor: pointer;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background-color: transparent;
+    border: none;
+    line-height: 1rem;
+}

@@ -1,0 +1,20 @@
+.description-card {
+    min-height: 40vh;
+    background-color: rgb(61, 61, 61);
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 5rem 10rem;
+    text-align: center;
+    color: white;
+    position: relative;
+    margin-top: 10vh;
+}
+
+.description-title {
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+.description {
+    font-size: 1.2rem;
+}
